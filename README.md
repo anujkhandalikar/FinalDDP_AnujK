@@ -13,4 +13,4 @@ open all files in pages folder (barcharts.py, linecharts.py, etc)
 run app.py using python console  
 open http://127.0.0.1:5005/  
 
-only app2.py and the files inside pages are important  
+only app2.py, .geojson and the files inside Pages folder are important
